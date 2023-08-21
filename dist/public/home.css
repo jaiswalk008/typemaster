@@ -1,0 +1,50 @@
+.title{
+    margin-left: 10px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.navbar-nav > li>button{
+    background-color: rgb(38, 177, 45);
+    color: aliceblue;
+    font-family:'Courier New', Courier, monospace;
+}
+.navbar-nav > li>button:hover{
+     
+    font-size: large;
+    background-color:  rgb(38, 159, 44);
+    color: black;
+}
+#message{
+    background-color: rgb(138, 217, 138);
+    padding: 10px;
+    margin-top: 5px;
+    border: 1.5px solid rgb(0, 115, 0);
+    border-radius: 5px;
+    color: rgb(17, 58, 16);
+    font-size: .975rem;
+    font-family:'Courier New', Courier, monospace;
+}
+.container{
+    max-width: 400px;
+}
+.user-form{
+    border: 2px solid rgb(0, 115, 0);
+    border-radius: 5px;
+    background-color: rgb(138, 217, 138);
+    display: none;
+}
+.change-username{
+    display: none;
+    
+}
+.start{
+    width:100px;
+}
+.btn-dark:hover{
+    font-size: 1.1rem;
+    background-color: rgb(3, 84, 7); 
+ 
+}
+.message-container{
+    display :block ;
+}
